@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="rpH});+L(Cg*W;UfT_]w" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_set_digital_pin" id="U|%@e3T^s|-AJ4*|Rl|."><field name="name">DigitalPin.P0</field><value name="value"><shadow type="math_number_minmax" id="vpEK`W%T8_hvvuqhjv~g"><mutation min="0" max="1" label="Value" precision="0"></mutation><field name="SLIDER">1</field></shadow></value><next><block type="device_show_leds" id="PO/FTQh^ga;TINKvS7+="><field name="LEDS">`
+        . # # # . 
+        # # # # . 
+        # . # . . 
+        # # . . . 
+        . . . . .
+        `</field></block></next></block></statement></block></xml>
